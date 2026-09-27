@@ -1,0 +1,6 @@
+{
+  "name": "RetroPlay PS5 Launcher",
+  "description": "PS5-inspired retro gaming launcher for Android and handheld consoles with dynamic background crossfade, ROM scanner, emulator intent launcher, and gamepad support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
